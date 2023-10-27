@@ -12,9 +12,17 @@
 #    return a * b
 #def despedida():
 #    print(Adios)
-def print_array(array):
-    for a in array:
-        print(a)
+#def print_array(array):
+#    for a in array:
+#        print(a)
+
+import time
+
+def fun1():
+    while True:
+        time.sleep(2)
+        print ("estoy mimiendo")
+
 
 if __name__ == "__main__":
 
@@ -27,5 +35,6 @@ if __name__ == "__main__":
     #print (b)
     #Adios = "¡Hasta luego!"
     #despedida()
-    array = ["Manolo", "Antonio", "Victor"]
-    print_array(array)
+    #array = ["Manolo", "Antonio", "Victor"]
+    #print_array
+    fun1()
