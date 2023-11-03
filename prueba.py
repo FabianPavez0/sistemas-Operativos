@@ -16,13 +16,12 @@
 #    for a in array:
 #        print(a)
 
-import time
+#import time
 
-def fun1():
-    while True:
-        time.sleep(2)
-        print ("estoy mimiendo")
-
+#def fun1():
+#    while True:
+#        time.sleep(2)
+#        print ("estoy mimiendo")
 
 if __name__ == "__main__":
 
@@ -36,5 +35,5 @@ if __name__ == "__main__":
     #Adios = "¡Hasta luego!"
     #despedida()
     #array = ["Manolo", "Antonio", "Victor"]
-    #print_array
-    fun1()
+    #print_array(array)
+    #fun1()
