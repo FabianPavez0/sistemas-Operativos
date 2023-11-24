@@ -1,0 +1,63 @@
+i = 1 2 3 (imtoger)
+i = 20 * 10³ (faig integer)
+i = "cadena de caracteres"
+i = cadena
+
+array = 
+
+arr = [1, 2, 3]...
+list = ["hola", 1 ,["hola"]]
+
+my_struk {
+	char letra;
+	array[10] nombre;
+}
+esto reseva una letra 4 bytes
+		      40 bytes
+
+arr = ["macia", "selva", "juan"]
+
+for elemento in arr:                <-Recorrido
+	print (elemento)	    <-Recorrido = for
+
+for elemento in arr:
+	if "pepe" = elemento:		} Busqueda for:
+		print ("Encontrado")
+		break
+
+i=0
+encontrado = false
+while not encontrado:
+	if "pepe" == arr[i]:
+		print ("Encontrado")
+		encontrado = true
+	i=+=1
+
+
+
+i = 0
+recorrido = false
+while not recorrido
+	if i == lem (air):
+	recorrido true
+	i+=1
+
+
+
+
+# Main
+arr = ["macia", "juan", "jose", "ernes"]
+
+var_a_encontrar = "juan"
+
+
+
+def busqueda_while (arr):
+
+def busqueda_for (arr):
+
+def recorrido_while (arr):
+
+def recorrido_for (arr):
+
+hacer recorrido de algoritmo de for, while
