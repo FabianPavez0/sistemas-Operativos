@@ -13,8 +13,8 @@ class Coche:
     def velocidad_punta(self):
         "230km/h"
 
-    while velocidad_normal < velocidad_punta:
-        velocidad_normal = +5
+    #while velocidad_normal < velocidad_punta:
+    #    velocidad_normal = +5
 
     def arrancar(self):
         print ("Arrancando el coche")

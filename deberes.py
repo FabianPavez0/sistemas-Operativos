@@ -16,7 +16,7 @@ while var_a_encontrado == False:
         print(array[i])
     i+=1
 '''
-
+'''
 # Def busquedar_for (arr, var_encontrar)
 
 def array_nombres():
@@ -34,6 +34,6 @@ for nombre_lista in array:
         var_encontrar = True
         print(nombre_lista)
 i+=1
-
+'''
 
 # Def recorrido_while (arr):
